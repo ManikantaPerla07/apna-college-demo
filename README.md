@@ -1,2 +1,3 @@
 # apna-college-demo
-this is my git repository
+This is my git repository
+Author - Manikanta
